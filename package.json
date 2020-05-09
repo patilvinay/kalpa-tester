@@ -69,5 +69,9 @@
   "jest": {
     "testEnvironment": "node"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "path": "^0.12.7",
+    "yamljs": "^0.3.0"
+  }
 }
